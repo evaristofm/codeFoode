@@ -1,0 +1,9 @@
+flask
+flask-admin
+flask-migrate
+flask-sqlalchemy
+
+[dev]
+flask-debugtoolbar
+pytest
+pytest-flask
